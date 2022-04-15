@@ -1,6 +1,6 @@
 # Bypass AMSI 2022 
 
-Hello, I share 3 of my scripts that will allow you to evade Windows Defender and AMSI with updated signatures.
+Hello, I share 3 of my scripts that will allow you to evade Windows Defender and AMSI with updated signatures.<br>
 Tested Windows 11 Pro.
 
 ## Bypass AMSI Method 1:
